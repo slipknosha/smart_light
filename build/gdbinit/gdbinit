@@ -1,0 +1,2 @@
+source /home/vlados/smart_light/build/gdbinit/symbols
+source /home/vlados/smart_light/build/gdbinit/connect

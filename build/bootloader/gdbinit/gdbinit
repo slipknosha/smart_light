@@ -1,0 +1,2 @@
+source /home/vlados/smart_light/build/bootloader/gdbinit/symbols
+source /home/vlados/smart_light/build/bootloader/gdbinit/connect
